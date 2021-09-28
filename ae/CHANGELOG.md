@@ -2,6 +2,11 @@
 
 This file documents all notable changes to [Gravitee.io Alert Engine](https://github.com/gravitee-io/helm-charts/tree/master/ae) Helm Chart. The release numbering uses [semantic versioning](http://semver.org).
 
+### 1.1.22
+
+- [X] Add `startupProbe
+- Add documentation on production ready environment
+
 ### 1.1.21
 
 - [X] Configure deployment strategy
